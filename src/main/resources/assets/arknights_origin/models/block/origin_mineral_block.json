@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "arknights_origin:block/origin_mineral_block"
+  }
+}

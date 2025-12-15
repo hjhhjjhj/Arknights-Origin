@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "arknights_origin:item/origin_stone_explosive_small"
+  }
+}
