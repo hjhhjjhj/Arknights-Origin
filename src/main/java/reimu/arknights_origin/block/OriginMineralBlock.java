@@ -25,4 +25,5 @@ public class OriginMineralBlock {
 
     public static void initialize() {
     }
+    //测试
 }
