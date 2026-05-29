@@ -15,14 +15,14 @@ public class OriginStoneExplosive_Small extends ExplodingItemLittle {
     }
 
     // 创建物品
-    public static final ExplodingItemLittle CUSTOM_ITEM = new ExplodingItemLittle(new FabricItemSettings().maxCount(16));
+    public static final OriginStoneExplosive_Small CUSTOM_ITEM = new OriginStoneExplosive_Small(new FabricItemSettings().maxCount(16));
 
     // 注册物品
     public static void register() {
-        FuelRegistry.INSTANCE.add(CUSTOM_ITEM, 300);
         Registry.register(Registries.ITEM,
                 new Identifier("arknights_origin", "origin_stone_explosive_small"),
                 CUSTOM_ITEM);
+        FuelRegistry.INSTANCE.add(CUSTOM_ITEM, 300);
 
     }
 
