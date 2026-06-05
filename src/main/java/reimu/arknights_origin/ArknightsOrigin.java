@@ -8,6 +8,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import reimu.arknights_origin.block.OriginMineralBlock;
+import reimu.arknights_origin.item.CuteBread;
 import reimu.arknights_origin.item.OriginStoneExplosive_Large;
 import reimu.arknights_origin.item.OriginStoneExplosive_Medium;
 import reimu.arknights_origin.item.OriginStoneExplosive_Small;
@@ -47,6 +48,7 @@ public class ArknightsOrigin implements ModInitializer {
         OriginStoneExplosive_Small.register();
         OriginStoneExplosive_Medium.register();
         OriginStoneExplosive_Large.register();
+        CuteBread.register();
 
         LOGGER.info("Hello Fabric world!");
 	}

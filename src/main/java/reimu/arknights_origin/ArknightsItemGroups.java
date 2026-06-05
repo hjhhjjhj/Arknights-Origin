@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import reimu.arknights_origin.block.OriginMineralBlock;
+import reimu.arknights_origin.item.CuteBread;
 import reimu.arknights_origin.item.OriginStoneExplosive_Large;
 import reimu.arknights_origin.item.OriginStoneExplosive_Medium;
 import reimu.arknights_origin.item.OriginStoneExplosive_Small;
@@ -23,6 +24,7 @@ public final class ArknightsItemGroups {
                 entries.add(OriginStoneExplosive_Small.CUSTOM_ITEM);
                 entries.add(OriginStoneExplosive_Medium.CUSTOM_ITEM);
                 entries.add(OriginStoneExplosive_Large.CUSTOM_ITEM);
+                entries.add(CuteBread.CUSTOM_ITEM);
                 entries.add(OriginMineralBlock.CUSTOM_BLOCK);
             })
             .build();
