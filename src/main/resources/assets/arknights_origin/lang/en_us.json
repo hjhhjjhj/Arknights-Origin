@@ -2,6 +2,8 @@
   "itemGroup.arknights_origin": "Arknights Origin",
   "item.arknights_origin.purest_origin_stone": "Purest Origin Stone",
   "item.arknights_origin.origin_stone_explosive_small": "OriginStoneExplosive(Small)",
+  "item.arknights_origin.origin_stone_explosive_medium": "OriginStoneExplosive(Medium)",
+  "item.arknights_origin.origin_stone_explosive_large": "OriginStoneExplosive(Large)",
 
   "block.arknights_origin.origin_mineral_block": "OriginMineralBlock"
 }
