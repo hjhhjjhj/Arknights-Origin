@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "arknights_origin:cute_bread"
+  },
+  "result": "arknights_origin:cute_hot_bread",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SPS",
+    "PPP"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:salmon"
+    },
+    "P": {
+      "item": "minecraft:pufferfish"
+    }
+  },
+  "result": {
+    "item": "arknights_origin:grass_fish_pill"
+  }
+}

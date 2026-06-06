@@ -5,6 +5,9 @@
   "item.arknights_origin.origin_stone_explosive_medium": "OriginStoneExplosive(Medium)",
   "item.arknights_origin.origin_stone_explosive_large": "OriginStoneExplosive(Large)",
   "item.arknights_origin.cute_bread": "Cute Bread",
+  "item.arknights_origin.cute_hot_bread": "Cute Hot Bread",
+  "item.arknights_origin.grass_fish_pill": "Grass Fish Pill",
+  "item.arknights_origin.grass_fish_hot_pill": "Grass Fish Hot Pill",
 
   "block.arknights_origin.origin_mineral_block": "OriginMineralBlock"
 }

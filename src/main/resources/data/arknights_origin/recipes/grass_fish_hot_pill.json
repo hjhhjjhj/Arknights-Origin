@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "arknights_origin:grass_fish_pill"
+  },
+  "result": "arknights_origin:grass_fish_hot_pill",
+  "experience": 0.35,
+  "cookingtime": 200
+}
